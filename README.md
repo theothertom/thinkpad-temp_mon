@@ -6,9 +6,9 @@ Monitor the temperature of a Thinkpad and adjust the fan if needed
 Install
 -------
 
-1) Copy temp_mon.sh to /usr/local/bin
-2) Make /usr/local/bin/temp_mon.sh executable (chmod +x)_
-3) Copy temp_mon.cron to /etc/cron.d/temp_mon
+1. Copy temp_mon.sh to /usr/local/bin
+2. Make /usr/local/bin/temp_mon.sh executable (chmod +x)_
+3. Copy temp_mon.cron to /etc/cron.d/temp_mon
 
 Put the following lines in /etc/rc.local
 
