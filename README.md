@@ -31,3 +31,4 @@ and in another terminal
 
 The script should run every five mins, and set the fan faster if the 
 CPU temparature is over 80C
+
